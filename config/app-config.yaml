@@ -24,4 +24,7 @@ features:
   load_balancer: enabled
   backup_enabled: true
 
+ HEAD
 Conflict from main: MAIN_CONFLICT_1
+Conflict from conflict-simulator: SIM_CONFLICT_1
+conflict-simulator

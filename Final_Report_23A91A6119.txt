@@ -1,0 +1,9 @@
+Student ID: 23A91A6119
+Repository: https://github.com/sriram78747/git-solved-23A91A6119
+Advanced Git Tasks Done:
+1. git stash – temporarily saved changes
+2. git revert – reverted a specific commit
+3. git reset – demonstrated soft and hard resets
+4. git rebase – rebased branch commits cleanly
+5. git cherry-pick – copied a single commit to another branch
+6. Generated checkpoint3_gitlog.txt after advanced commands
