@@ -1,0 +1,33 @@
+* 8d60734 (HEAD -> main, origin/main, origin/HEAD) docs: add CHANGELOG.md
+* d41a100 docs: add GIT_JOURNEY.md
+*   689c846 merge: resolved config/app-config.yaml conflict - kept production default and merged dev options
+|\  
+| * a5bccde (origin/conflict-simulator, conflict-simulator) conflict-simulator: add marker to app-config (SIM_CONFLICT_1)
+| * 5792f31 Added contributor details file
+| * ad22576 Added notes for milestone v1.0 completion
+| * ff23727 Improved README documentation for conflict handling
+| * 8cbc81d Updated CHANGELOG with automation and config info
+| * 3761c0e Added run_tests.sh for automation testing
+| * 5fcddb6 Refactored automation script for clarity
+| * 33053b9 Resolved minor config issue in config.txt
+| * 4a82568 (cherry-demo) Resolved merge conflict in checkpoint1_gitlog.txt
+* | e4d3673 main: add marker to app-config (MAIN_CONFLICT_1)
+|/  
+* c4ff11e (rebase-demo) Change made in rebase-demo branch
+* 900d808 Added checkpoint2 git log after resolving merge conflict
+* 695d718 Added checkpoint2 git log after resolving merge conflict
+*   41deb5f Resolved merge conflict between main and conflict-simulator
+|\  
+| * 890619b Added new line in conflict-simulator branch to cause conflict
+* | 9af3833 Added new line in main branch differently
+* | 24e2e8d Edited file in main branch
+* | 549d800 Edited file in conflict-simulator branch
+|/  
+* 7526738 docs: add checkpoint1_gitlog.txt
+* 0312c6f (origin/dev, instructor/main, instructor/HEAD, dev) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
