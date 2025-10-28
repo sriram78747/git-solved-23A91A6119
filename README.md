@@ -24,3 +24,4 @@ See `/docs` folder for detailed documentation.
 
 ## License
 MIT License
+"Documentation improved for merge conflict handling" 
